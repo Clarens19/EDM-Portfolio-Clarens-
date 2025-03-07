@@ -8,5 +8,5 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 * High School: Sapang Bato National High School
 * Elementary:Weisheit Inscribe Learning Academy
 # My Project
-Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab1)
-Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab1)
+* Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab1)
+* Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab1)
