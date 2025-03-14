@@ -8,7 +8,7 @@ Company X would like to extract valuable insights from the "UncleanedDSJObs.csv"
 ## 3. Steps Performed in Data Cleaning and Transformation:
 ![cleaned data](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/5bd9f77e488276f946f8f6c56938aff2a95e4427/Midterm%20Lab1/Image/sss.png)
 ![sal by role type dup](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/1c27eb0a05129ef29651a71f427be517288e8cd7/Midterm%20Lab1/Image/Sal%20By%20Role%20Type%20dup.png)
-![sal by size ref](image/sal%20by%20size%20ref.png)
+![sal by size ref](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ff57ca039eaccbbbefe5a466d009aa2fd2d9c9bd/Midterm%20Lab1/Image/Sal%20By%20Role%20Size%20ref.png)
 ![sal by state ref](image/sal%20by%20state%20ref.png)
 ![query dependencies](image/query%20dependencies.png)
 ## Step 1: Loading the Data into Power Query
