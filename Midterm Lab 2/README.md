@@ -4,7 +4,7 @@ Company X would like to extract valuable insights from the "UncleanedDSJObs.csv"
 
 
 ## 2. Screenshot of the Dataset Before Data Cleaning and Transformation:
-![before](image/before.png)
+![before]([image/before.png](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/5a5923f5e87bb8a87dfcc9483a390d6250fa2601/Midterm%20Lab1/Image/1.png))
 ## 3. Steps Performed in Data Cleaning and Transformation:
 ![cleaned data](image/cleaned%20data.png)
 ![sal by role type dup](image/sal%20by%20role%20type%20dup.png)
