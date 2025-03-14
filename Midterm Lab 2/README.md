@@ -10,7 +10,7 @@ Company X would like to extract valuable insights from the "UncleanedDSJObs.csv"
 ![sal by role type dup](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/1c27eb0a05129ef29651a71f427be517288e8cd7/Midterm%20Lab1/Image/Sal%20By%20Role%20Type%20dup.png)
 ![sal by size ref](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ff57ca039eaccbbbefe5a466d009aa2fd2d9c9bd/Midterm%20Lab1/Image/Sal%20By%20Role%20Size%20ref.png)
 ![sal by state ref](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/709bce9a7afa8c13a4fa775aa663454fc4c0e8b5/Midterm%20Lab1/Image/Sal%20By%20State%20ref.png)
-![query dependencies](image/query%20dependencies.png)
+![query dependencies](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/05a7b73296ae83849c57724bd8145f45654159fc/Midterm%20Lab1/Image/s1.png)
 ## Step 1: Loading the Data into Power Query
 - Open Excel and go to Data > Get Data > From Text/CSV.
 - Load the raw CSV file UnclenedDSJObs.csv into Power Query.
