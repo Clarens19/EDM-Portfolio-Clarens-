@@ -3,22 +3,31 @@
   and each assignment has a due date.
 ## Step 1:
   - Student Table: Stores student information.
-    
-  ![image_alt]() 
+### SCREENSHOTS OF QUERY STATEMENT AND TABLE 
+
+  ![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/student.png)  
   
+  ![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/student%20with%20tbl.png) 
+   
 ## Step 2:
 - Assignment Table: Stores assignment details.
-  
-  ![image_alt]()
+### SCREENSHOTS OF QUERY STATEMENT AND TABLE 
+
+![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/assign.png)
+
+![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/assign%20tbl.png)
   
 ## Step 3:
 - Submission Table: Stores submission data.
-  
-    ![image_alt]()
+ ### SCREENSHOTS OF QUERY STATEMENT AND TABLE 
+ 
+![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/sub.png)
+
+![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/sub%20tbl.png)
   
 ## Relationships:
 - Submissions are linked to both students and assignments.
 - Foreign keys ensure that submissions are associated with valid students and assignments.
 
 ## ER DIAGRAM 
-![image_alt]()
+![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/erd%20cla.png)
