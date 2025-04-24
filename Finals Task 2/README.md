@@ -31,3 +31,6 @@
 
 ## ER DIAGRAM 
 ![image_alt](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/ca99ad33d9a7d37029129c004c01b5ff6bd46170/Finals%20Task%202/IMAGES/erd%20cla.png)
+
+## HERE IS THE COPY OF MYSQL 
+![MYSQL_LINK](https://github.com/Clarens19/EDM-Portfolio-Clarens-/blob/6e84b84239f6f75a519e910406f8ca9822a45fb7/Finals%20Task%202/IMAGES/Finals%20Task%202%20-%20clarens%20william.sql)
