@@ -10,6 +10,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 # My Project
 * Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab1)
 * Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Midterm%20Lab%202)
+* Finals Lab Task 1: [Multi Level Company Database](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%201)
 * Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%202)
 * Finals Lab Task 3: [Table Manipulation](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Final%20Lab%20Task%203)
-* Finals Task 3-1: [Using SELECT CLAUSE](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%203-1)
+* Finals Lab Task 3-1: [Using SELECT CLAUSE](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%203-1)
