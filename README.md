@@ -14,3 +14,4 @@ I'm Clarens Jay M. William, a BSIS student at City College of Angeles with a pas
 * Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%202)
 * Finals Lab Task 3: [Table Manipulation](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Final%20Lab%20Task%203)
 * Finals Lab Task 3-1: [Using SELECT CLAUSE](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%203-1)
+* Finals Lab Task 6:  [ MongoDB Practice](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%206)
