@@ -17,4 +17,4 @@ I'm Clarens Jay M. William, a BSIS student at City College of Angeles with a pas
 * Final Lab Task 5: [Views SP and Functions] 
 
 
-* Finals Lab Task 6:  [ MongoDB Practice](https://github.com/Clarens19/EDM-Portfolio-Clarens-/tree/main/Finals%20Task%206)
+* Finals Lab Task 6: 
